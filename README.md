@@ -10,7 +10,7 @@
 
 ### **Connect with me**
 ![gnull0chan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![https://instagram.com/null0_chan/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://instagram.com/null0_chan](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/null0-chan/null0-chan/output/snake.svg" alt="Snake animation" />
 
