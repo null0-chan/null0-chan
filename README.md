@@ -55,7 +55,21 @@ ghaisan@lily:~$ cat skills
 ghaisan@lily:~$ github-stats
 ```
 
-(statistik)
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=null0-chan&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=null0-chan&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=null0-chan&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
