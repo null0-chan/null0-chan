@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="Plana.mp4" width="280" alt="Plana"></video>
+  <img src="plana.gif" width="280" alt="Plana">
 </p>
 
 ```console
