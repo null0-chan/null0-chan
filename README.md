@@ -1,22 +1,64 @@
-![Banner](./img/banner.png)
+Hello, I'm Ichan
 
-### **Skills**
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /><img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<div align="center"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="260"/>"Learning quietly, building patiently."
 
-<img src="https://raw.githubusercontent.com/null0-chan/null0-chan/output/snake.svg" alt="Snake animation" />
+</div>---
 
+🌸 About Me
 
-<!--
-**null0-chan/null0-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student
+💻 JavaScript Developer (still learning)
+🤖 WhatsApp Bot Enthusiast
+🎮 Interested in Godot
+🌱 Currently exploring Python & Local AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✿ Skills
+
+JavaScript   ███████░░░
+Node.js      ██████░░░░
+HTML/CSS     ██████░░░░
+Debugging    ████████░░
+Problem Solving ███████░░
+
+---
+
+🌱 Currently Growing
+
+- Building modular WhatsApp bots.
+- Learning cleaner architecture.
+- Understanding JavaScript deeper.
+- Exploring Python.
+- Learning Godot Engine.
+- Curious about Local LLM.
+
+---
+
+☁ Things I'm Improving
+
+- Planning projects before coding.
+- Writing cleaner code.
+- Organizing large projects.
+- Finishing ideas before starting new ones.
+
+---
+
+♡ Little Facts
+
+- I enjoy solving bugs more than giving up.
+- I prefer understanding over memorizing.
+- Most of my projects begin with curiosity.
+- Honest feedback helps me grow.
+
+---
+
+📚 Current Motto
+
+«"Small progress is still progress."»
+
+---
+
+<div align="center">"Thanks for stopping by."
+
+</div>
