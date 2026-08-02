@@ -2,28 +2,6 @@
   <img src="plana.gif" width="280" alt="Plana">
 </p>
 
-<div align="center">
-
-# Lily Terminal
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Initializing+developer+profile...;Loading+AI+modules...;Access+Granted."/>
-
-</div>
-
----
-
-```text
-──────────────────────────────────────────────
-        Lily Terminal v1.0
-──────────────────────────────────────────────
-
-Last Login : Today
-Host       : github.com/null0-chan
-Status     : Online
-
-Type "help" to continue...
-```
-
 ```console
 ghaisan@lily:~$ whoami
 ```
@@ -61,17 +39,15 @@ ghaisan@lily:~$ cat skills
 
 ### Languages
 
-![JavaScript](...)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Runtime
 
-![Node.js](...)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools
 
-![Git](...)
-![GitHub](...)
-![Termux](...)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Termux](https://img.shields.io/badge/Termux-black?style=for-the-badge&logo=gnu-bash)
 
 ---
 
