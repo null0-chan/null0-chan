@@ -28,26 +28,21 @@
 
 ```yaml
 name: "Ghaisan"
-
 location: "Indonesia 🇮🇩"
-
 role:
   - Student
   - Hobbyist Developer
-
 currently_working_on:
   - Lily AI
   - Plana AI
   - WhatsApp Automation
   - AI Chat System
-
 currently_learning:
   - JavaScript
   - Node.js
   - Artificial Intelligence
   - Cyber Security
   - Godot Engine
-
 likes:
   - Anime
   - Open Source
@@ -86,11 +81,7 @@ likes:
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Termux](https://img.shields.io/badge/Termux-black?style=for-the-badge&logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Termux](https://img.shields.io/badge/Termux-black?style=for-the-badge&logo=gnu-bash)
 
 ---
 
