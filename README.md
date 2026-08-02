@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Plana.gif" width="280" alt="Plana">
+  <img src="https://jumpshare.com/s/r6C3Zv9QqC5750ib2h26" width="280" alt="Plana">
 </p>
 
 ```console
