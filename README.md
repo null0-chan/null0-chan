@@ -57,7 +57,7 @@ ghaisan@lily:~$ github-stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=null0-chan&show_icons=true&theme=tokyonight"/>
+<img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=null0-chan&show_icons=true&theme=tokyonight"/>
 
 </div>
 
@@ -65,7 +65,7 @@ ghaisan@lily:~$ github-stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=null0-chan&layout=compact&theme=tokyonight"/>
+<img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=null0-chan&layout=compact&theme=tokyonight"/>
   
 </div>
 
