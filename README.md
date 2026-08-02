@@ -1,142 +1,94 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:B8C0FF,100:89CFF0&text=Ghaisan&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Student%20%7C%20AI%20Developer%20%7C%20Bot%20Developer&descAlignY=58"/>
-
-</div>
-
 <p align="center">
-<img src="plana.gif" width="280">
+  <img src="plana.gif" width="280" alt="Plana">
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A9EFF&center=true&vCenter=true&width=700&lines=Initializing+Lily+OS...;Loading+Developer+Profile...;Welcome+to+my+GitHub."/>
+# Lily Terminal
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Initializing+developer+profile...;Loading+AI+modules...;Access+Granted."/>
 
 </div>
 
 ---
 
-```console
-ghaisan@github:~$ neofetch
-```
-
 ```text
-      OS      : Lily OS
-      User    : Ghaisan
-      Role    : Student
-      Country : Indonesia 🇮🇩
-      Shell   : /bin/bash
-      Status  : Coding...
+──────────────────────────────────────────────
+        Lily Terminal v1.0
+──────────────────────────────────────────────
+
+Last Login : Today
+Host       : github.com/null0-chan
+Status     : Online
+
+Type "help" to continue...
 ```
 
----
-
 ```console
-ghaisan@github:~$ whoami
+ghaisan@lily:~$ whoami
 ```
 
 ```yaml
-Name:
-  Ghaisan
+Name      : Ghaisan
+Role      : Student
+Country   : Indonesia
 
-Occupation:
-  Student
-
-Focus:
-  - AI Assistant
+Interest:
+  - Artificial Intelligence
   - WhatsApp Bot
-  - Automation
-
-Learning:
-  - JavaScript
-  - Node.js
   - Cyber Security
-  - Godot Engine
-
-Hobbies:
-  - Anime
   - Open Source
-  - Linux
-  - Termux
 ```
 
 ---
 
 ```console
-ghaisan@github:~$ ls projects/
+ghaisan@lily:~$ ls projects/
 ```
 
 ```text
-📂 Lily-AI
-📂 Plana-AI
-📂 WhatsApp-Bot
-📂 AI-Experiments
+📂 Lily AI
+📂 Plana AI
+📂 WhatsApp Automation
+📂 AI Experiments
 ```
 
 ---
 
 ```console
-ghaisan@github:~$ cat lily.txt
-```
-
-> Lily AI is a WhatsApp assistant built using JavaScript, Node.js and Baileys.
-
-Features
-
-- AI Conversation
-- Memory System
-- Permission System
-- Text-to-Speech
-- WhatsApp Automation
-
----
-
-```console
-ghaisan@github:~$ skills
+ghaisan@lily:~$ cat skills
 ```
 
 ### Languages
 
-...
+![JavaScript](...)
 
 ### Runtime
 
-...
+![Node.js](...)
 
 ### Tools
 
-...
+![Git](...)
+![GitHub](...)
+![Termux](...)
 
 ---
 
 ```console
-ghaisan@github:~$ goals
+ghaisan@lily:~$ github-stats
+```
+
+(statistik)
+
+---
+
+```console
+ghaisan@lily:~$ shutdown
 ```
 
 ```text
-✔ Build smarter AI assistants
-✔ Learn software architecture
-✔ Improve JavaScript
-✔ Learn penetration testing
-✔ Contribute to Open Source
-```
-
----
-
-## 📊 GitHub Stats
-
-...
-
-## 📈 Contribution Graph
-
-...
-
----
-
-```console
-ghaisan@github:~$ exit
-logout
-
-Thanks for visiting.
-See you again.
+Saving memories...
+Closing terminal...
+Goodbye.
 ```
