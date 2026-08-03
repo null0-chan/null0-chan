@@ -25,10 +25,10 @@ ghaisan@lily:~$ ls projects/
 ```
 
 ```text
-📂 Lily AI
-📂 Plana AI
+📂 Lily AI - CLI
 📂 WhatsApp Automation
 📂 AI Experiments
+...etc
 ```
 
 ---
