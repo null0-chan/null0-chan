@@ -28,7 +28,7 @@ ghaisan@lily:~$ ls projects/
 📂 Lily AI - CLI
 📂 WhatsApp Automation
 📂 AI Experiments
-...etc
+...
 ```
 
 ---
