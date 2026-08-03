@@ -7,15 +7,15 @@ ghaisan@lily:~$ whoami
 ```
 
 ```yaml
-Name      : Ghaisan
-Role      : Student
-Country   : Indonesia
+Name      : "Ghaisan"
+Role      : "Student"
+Country   : "Indonesia"
 
 Interest:
-  - Artificial Intelligence
-  - WhatsApp Bot
-  - Cyber Security
-  - Open Source
+  - "Artificial Intelligence"
+  - "WhatsApp Bot"
+  - "Cyber Security"
+  - "Open Source"
 ```
 
 ---
