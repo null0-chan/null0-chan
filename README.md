@@ -73,7 +73,7 @@ ghaisan@lily:~$ github-stats
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=null0-chan&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=null0-chan&theme=tokyonight"/>
 
 </div>
 
