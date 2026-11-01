@@ -13,22 +13,8 @@ Country   : Indonesia
 
 Interest:
   - Artificial Intelligence
-  - WhatsApp Bot
   - Cyber Security
   - Open Source
-```
-
----
-
-```console
-ghaisan@lily:~$ ls projects/
-```
-
-```text
-📂 Lily AI - CLI
-📂 WhatsApp Automation
-📂 AI Experiments
-...
 ```
 
 ---
